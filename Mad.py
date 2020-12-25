@@ -1,0 +1,6 @@
+a = input("Describe Trump in one word: ")
+b = input("Trump's color is: ")
+c = input("Where does he live: ")
+print("Trump is a " + a)
+print("His colour is " + b)
+print("He lives in " + c)
